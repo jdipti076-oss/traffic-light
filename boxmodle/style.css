@@ -1,0 +1,22 @@
+#main{
+    width: 150px;
+    height:400px;
+    border: 2px solid black;
+}
+#c1{
+    background-color: red;
+}
+#c2{
+    background-color: yellow;
+}
+#c3{
+    background-color: green;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin: 15px;
+    
+}
