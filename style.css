@@ -1,0 +1,16 @@
+body{
+    background-color:#FBC8D4; ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    font-weight: bolder;
+
+    color: #F5B349;
+    text-align: center;
+    text-decoration: line-through;
+    
+}
+p{
+    text-align: center;
+}
